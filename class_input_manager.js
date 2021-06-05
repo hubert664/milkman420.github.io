@@ -1,0 +1,28 @@
+var class_input_manager =
+[
+    [ "ArtefactKeyDown", "class_input_manager.html#a3e9a1b47955cf07792c1c4de6f5d2232", null ],
+    [ "ArtefactKeyPressed", "class_input_manager.html#abda18675cf17abd1f70b4ce0999eea56", null ],
+    [ "ArtefactKeyUp", "class_input_manager.html#a0254f0357ab8b6efc510fa95fde685ec", null ],
+    [ "AttackKeyDown", "class_input_manager.html#abcc26e643b71609f7a543066e23e3bf6", null ],
+    [ "AttackKeyPressed", "class_input_manager.html#a1c0235bf7554b53a5267d516c1df937a", null ],
+    [ "AttackKeyUp", "class_input_manager.html#ac033615b8459b7a4b922fb70a4d6024e", null ],
+    [ "BackwardsKeyPressed", "class_input_manager.html#aa14096779a9400b72af9bed98263af42", null ],
+    [ "DashKeyDown", "class_input_manager.html#a937f9f0c3b1ea4894f72d089b6a3dea9", null ],
+    [ "DashKeyPressed", "class_input_manager.html#a9758e8c9c0b9c6eff2333fbab94ae94a", null ],
+    [ "DashKeyUp", "class_input_manager.html#a5f76e7fb9f9a4aaec696144b81b5efde", null ],
+    [ "ForwardKeyPressed", "class_input_manager.html#abefc197eaeea46bea92b15252ad40eea", null ],
+    [ "HorizontalInput", "class_input_manager.html#a04a2330b23310580f91b4cd7f45ef17a", null ],
+    [ "InteractKeyDown", "class_input_manager.html#aefd55dfc6beddac535e3eb5bfd850aaa", null ],
+    [ "InteractKeyPressed", "class_input_manager.html#ace1924200c2c074bed4cb93f127d7aa5", null ],
+    [ "InteractKeyUp", "class_input_manager.html#a1369df94c7bb9eaa9cea0d2d466a4668", null ],
+    [ "JumpKeyDown", "class_input_manager.html#a13e18e977b4a991cdb4a3ee6de92ca26", null ],
+    [ "JumpKeyPressed", "class_input_manager.html#a3cc7d9fcbe03d2bcd75f74efde2ecf30", null ],
+    [ "JumpKeyUp", "class_input_manager.html#a2a66f7c86f4309301bc4ab21f5c343fb", null ],
+    [ "LookDownKeyDown", "class_input_manager.html#a5a555327f760241b48a47cfcddf880fc", null ],
+    [ "LookDownKeyPressed", "class_input_manager.html#a7db20669287609916150da19be9e348d", null ],
+    [ "LookDownKeyUp", "class_input_manager.html#a90be29c86cf343665810848b05ef6ead", null ],
+    [ "PauseKeyDown", "class_input_manager.html#a48fd19b5d66e73bd0dc2d4c6e6dbd172", null ],
+    [ "PauseKeyUp", "class_input_manager.html#a2229306969d1cdb3d2303d666534f5f5", null ],
+    [ "SwitchWeaponKeyDown", "class_input_manager.html#afde51930ad6f8c5822540ec698763491", null ],
+    [ "SwitchWeaponKeyUp", "class_input_manager.html#af363253bc4e4d40c11d7c6cef3b1e21a", null ]
+];
